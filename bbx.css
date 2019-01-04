@@ -1,0 +1,72 @@
+body {
+    margin: 10px;
+    padding: 25px;
+    font: 20px sans-serif;
+    line-height: 1.5;
+}
+
+h1 {
+    text-align-last: center;
+    padding: 25px;
+    margin: 25px;
+    letter-spacing: 3px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+h4{
+  font-size: 30px;
+}
+
+.tekstogbileder {
+    line-height: 1.5;
+    margin:auto;
+    top:0; right:0; bottom:0; left:0;
+    
+}
+
+.webhistorie {
+    width: 400px;
+
+}
+  
+ 
+.dropdown {
+    width: 200px;
+    text-align: center;
+    
+}
+
+.kilder {
+    opacity: 0.6;
+    font-size: 0.7em;
+}
+
+.illupic {
+    width: 500px;
+}
+
+.phs2 {
+    width: 350px;
+}
+
+.whitespacebld {
+    width: 800px;
+}
+
+.kas {
+    width: 500px
+}
+/* Media Quariess */
+@media and screen (min-width: 400px) {
+    .kas{
+        200px;
+    }
+}
